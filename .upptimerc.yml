@@ -3,12 +3,12 @@ owner: Xplanis-AG # Your GitHub organization or username, where this repository 
 repo: x4fleet-uptime-monitor # The name of this repository
 
 sites:
-  - name: X4fleet Web (Production)
-    url: https://www.x4fleet.com
-  - name: X4fleet Api (Production)
-    url: https://api.x4fleet.com
-  - name: X4fleet Gateway (Production)
-    url: https://gateway.x4fleet.com
+  #- name: X4fleet Web (Production)
+  #  url: https://www.x4fleet.com
+  #- name: X4fleet Api (Production)
+  #  url: https://api.x4fleet.com
+  #- name: X4fleet Gateway (Production)
+  #  url: https://gateway.x4fleet.com
   # - name: Google
   #   url: https://www.google.com
   # - name: Wikipedia
